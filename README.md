@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-reda-eldemery&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-reda-eldemery" /> </p>
 
-- 👨‍💻 Here is a video for one of my group university projects **<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7017167830584299520?compact=1" height="399" width="710" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>**
-
 - 📫 How to reach me **ahmed.reda.eldemery@gmail.com**
 
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1_LPpTs9cLDVwtw4v3qsKYvdTF-SB7w3r/view?usp=drive_link)
